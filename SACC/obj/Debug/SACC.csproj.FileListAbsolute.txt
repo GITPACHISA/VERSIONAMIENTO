@@ -1,0 +1,116 @@
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\ApplicationInsights.config
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\csc.exe
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\vbc.exe
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\SACC.dll.config
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\SACC.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\SACC.pdb
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\EntityFramework.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\EntityFramework.SqlServer.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.Web.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.Razor.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\WebGrease.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\EntityFramework.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\EntityFramework.SqlServer.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.Web.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.Razor.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\obj\Debug\SACC.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\obj\Debug\SACC.dll
+C:\Users\Desarrollo\documents\visual studio 2015\Projects\SACC\SACC\obj\Debug\SACC.pdb
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\ApplicationInsights.config
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\csc.exe
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\vbc.exe
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\VBCSCompiler.exe
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\SACC.dll.config
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\SACC.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\SACC.pdb
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Antlr3.Runtime.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\EntityFramework.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\EntityFramework.SqlServer.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.Web.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Newtonsoft.Json.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.Helpers.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.Mvc.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.Optimization.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.Razor.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.WebPages.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.WebPages.Razor.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\WebGrease.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\EntityFramework.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\EntityFramework.SqlServer.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.Web.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.Helpers.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.Mvc.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.Optimization.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.Razor.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.WebPages.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\System.Web.WebPages.Razor.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Antlr3.Runtime.pdb
+C:\Users\oscar.merino\Desktop\SACC\SACC\bin\Newtonsoft.Json.xml
+C:\Users\oscar.merino\Desktop\SACC\SACC\obj\Debug\SACC.csprojAssemblyReference.cache
+C:\Users\oscar.merino\Desktop\SACC\SACC\obj\Debug\SACC.csproj.CoreCompileInputs.cache
+C:\Users\oscar.merino\Desktop\SACC\SACC\obj\Debug\SACC.csproj.CopyComplete
+C:\Users\oscar.merino\Desktop\SACC\SACC\obj\Debug\SACC.dll
+C:\Users\oscar.merino\Desktop\SACC\SACC\obj\Debug\SACC.pdb
