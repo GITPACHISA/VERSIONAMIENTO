@@ -11,8 +11,9 @@ namespace SACC.Controllers.Compras
     {
         //PRUEBA DE MODIFICACION DEL CODIGO
         //segunda prueba de modificacion del codigo
+        //asdasdasdada
 
-
+          
 
         // GET: Compra
         //public ActionResult ListaRequisiciones()
