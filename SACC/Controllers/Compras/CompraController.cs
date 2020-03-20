@@ -9,6 +9,10 @@ namespace SACC.Controllers.Compras
 {
     public class CompraController : Controller
     {
+        //PRUEBA DE MODIFICACION DEL CODIGO
+
+
+
         // GET: Compra
         //public ActionResult ListaRequisiciones()
         //{
